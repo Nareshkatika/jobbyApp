@@ -1,0 +1,30 @@
+.para1 {
+  font-family: roboto;
+  font-size: 15px;
+  color: white;
+}
+
+.headingEl1 {
+  font-family: roboto;
+  font-size: 20px;
+  color: white;
+}
+
+.arrangeEl23 {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  padding: 20px;
+  background-color: black;
+  height: 100vh;
+}
+
+.imageEl234 {
+  height: 400px;
+  width: 400px;
+}
+
+.arrangeEl98 {
+  display: flex;
+  flex-direction: column;
+}
